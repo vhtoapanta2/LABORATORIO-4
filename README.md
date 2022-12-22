@@ -108,10 +108,11 @@ Medición de corriente aplicando superposición.
 
 ![image](https://user-images.githubusercontent.com/117923992/209146339-c3d3a607-62ca-472c-8bb6-5435b06585db.png)
 
-Verifique el cumplimiento del Teorema de Superposición y compare los resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus
-conclusiones.
 Calcular errores de las mediciones y comentar los resultados.
 
+ERRORES RELATIVOS 
+
+![image](https://user-images.githubusercontent.com/117923992/209166047-66a1a759-c1d0-4bb6-b476-3288eb2f10c8.png)
 
       VIDEO:
       
