@@ -116,7 +116,7 @@ ERRORES RELATIVOS
 
       VIDEO:
       
-LINK:
+LINK:https://youtu.be/qho9_8KLhp8
 
       CONCLUSIONES:
 
